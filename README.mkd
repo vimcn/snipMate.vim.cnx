@@ -1,0 +1,5 @@
+
+snipMate.vim 中文文档
+=====================
+
+这是一份针对 [snipMate.vim](https://github.com/msanders/snipmate.vim) 文档的中文翻译。
